@@ -1,0 +1,26 @@
+{
+  "name": "levi-s-docker-thingy",
+  "version": "1.0.0",
+  "description": "project used with docker in a tdt workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levibalint/levi-s-docker-thingy.git"
+  },
+  "keywords": [
+    "docker-thing"
+  ],
+  "author": "levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levibalint/levi-s-docker-thingy/issues"
+  },
+  "homepage": "https://github.com/levibalint/levi-s-docker-thingy#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
